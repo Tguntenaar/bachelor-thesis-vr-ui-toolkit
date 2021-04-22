@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement>
+        <ui:Toggle label="Toggle" />
+    </ui:VisualElement>
+    <ui:Slider picking-mode="Ignore" label="Slider" value="60.5" high-value="100" />
+    <uie:ObjectField label="Object Field" />
+</ui:UXML>

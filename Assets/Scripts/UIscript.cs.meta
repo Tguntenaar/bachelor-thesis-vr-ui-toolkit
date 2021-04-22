@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c8e6339f71cd84395b88ed4d8f100145
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myPrefab: {fileID: 7820468318720967450, guid: 6b069400d588444cda7df77227ed233d,
+      type: 3}
+  - canvas: {instanceID: 0}
+  - sliderPrefab: {fileID: 4688835280395515163, guid: 946083c093c704139942354f6ced8bfc,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
